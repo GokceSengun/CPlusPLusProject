@@ -1,0 +1,1 @@
+It is a basic war game simulation in object oriented programming.
